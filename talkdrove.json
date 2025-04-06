@@ -1,0 +1,12 @@
+{
+  "email": "youremail@example.com",
+  "bot_name": "Shagi-MD",
+  "env": {
+    "SESSION_ID": "PASTE_YOUR_SESSION_ID_HERE",
+    "OWNER_NUMBER": "947XXXXXXXX",
+    "PREFIX": ".",
+    "BOT_NAME": "Shagi-MD",
+    "MODE": "public"
+  },
+  "pairing_link": "https://wa.me/947XXXXXXXX"
+}
